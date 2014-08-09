@@ -1,0 +1,32 @@
+{
+    "typeface": {
+        "name": "Fontlab Font",
+        "author": [
+            "Bryce Wilner",
+            "Fontlab Studio",
+        ],
+        "licence": "OFL",
+        "foundry": "Undefined",
+        "unicode-ranges": "Basic Latin",
+        "tags": [
+            "sans serif",
+            "libre",
+            "open source",
+            "Fontlab",
+        ],
+        "repository-URL": "https://github.com/brycewilner/Fontlab-Font",
+        "project-URL": "http://www.brycewilner.com/fonts.html",
+        "download-URL": "https://github.com/brycewilner/Fontlab-Font/blob/master/Fontlab-Font.otf",
+        "softwares": [
+            "Fontlab Studio 5"
+        ],
+        "similar-fonts": [
+        ],
+        "sample-text": "Pick you choice.",
+        "font": {
+            "name": "Fontlab Font",
+            "weight": "regular",
+            "creation-date": "2014"
+        }
+    }
+}
